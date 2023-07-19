@@ -1,0 +1,14 @@
+Power flow data for IEEE 118 bus test case.
+This data was converted from IEEE Common Data Format
+(ieee118cdf.txt) on 15-Oct-2014 by cdf2matp, rev. 2393
+See end of file for warnings generated during conversion.
+
+Converted from IEEE CDF file from:
+    https://labs.ece.uw.edu/pstca/
+With baseKV data take from the PSAP format file from the same site,
+added manually on 10-Mar-2006.
+Branches 86--87, 68--116 changed from transmission lines (tap ratio = 0)
+to transformers (tap ratio = 1) for consistency with bus base voltages
+on 2019-02-15.
+
+08/25/93 UW ARCHIVE           100.0  1961 W IEEE 118 Bus Test Case
